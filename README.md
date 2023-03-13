@@ -1,2 +1,1 @@
-- 👋 olá sou Ana Luiza Pontarolo
-- 👀 estou interessada em aprender coisas nesse curso ...
+
